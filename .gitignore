@@ -1,0 +1,4 @@
+.env
+us.stackdump
+venv
+__pycache__
